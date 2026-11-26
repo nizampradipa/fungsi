@@ -12,5 +12,5 @@ function cetakKeliling(sisi) {
 cetakKeliling(6);
 cetakKeliling(10);
 
-// 1.kelilingPersegi adalah fungsi void karena menggunakan return untuk mengembalikan nilai
-//   cetakKeliling adalah fungsi non void karena tidak ada return
+// 1.kelilingPersegi adalah fungsi non void karena menggunakan return untuk mengembalikan nilai
+//   cetakKeliling adalah fungsi void karena tidak ada return
