@@ -21,3 +21,5 @@ function cetakRapor (nama, n1, n2, n3) {
 }
 
 cetakRapor('Nizam', 60, 75, 90)
+cetakRapor('Dipa', 90, 95, 100)
+cetakRapor('Mahasin', 100, 100, 100)
